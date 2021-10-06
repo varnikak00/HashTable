@@ -1,0 +1,14 @@
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.csproj.AssemblyReference.cache
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.AssemblyInfoInputs.cache
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.AssemblyInfo.cs
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.csproj.CoreCompileInputs.cache
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.exe
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.deps.json
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.runtimeconfig.json
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.runtimeconfig.dev.json
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.dll
+D:\HashTable\HashTableuc1\bin\Debug\netcoreapp3.1\HashTableuc1.pdb
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.dll
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.pdb
+D:\HashTable\HashTableuc1\obj\Debug\netcoreapp3.1\HashTableuc1.genruntimeconfig.cache
